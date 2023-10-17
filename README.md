@@ -1,2 +1,7 @@
 # EUICCCLF
 Enhancing Underwater Image via Color-Cast Correction and Luminance Fusion
+https://ieeexplore.ieee.org/abstract/document/10250951
+
+Underwater images always suffer from color distortion, contrast decrease, and detail blur due to the selective absorption and scattering of water, which significantly limits their applications. In this article, we introduce an effective underwater image enhancement method to improve image quality, i.e., correcting color distortion, enhancing contrast, and enriching details. Specifically, we first use a color-cast factor to classify underwater images into no-color-cast and color-cast images; the latter is divided into three color shifts to help apply adaptive color correction approaches for images with different color shifts. Based on the color-corrected results, we enhance their luminance information and enrich details via a well-designed histogram equalization algorithm and a multiscale detail superposition algorithm. We finally combine fused luminance information and corrected color information to output the desired images with improved quality. Experiments on four representative underwater benchmarks validate our method's robustness to different categories of underwater images, as well as its superiority compared with state-of-the-art methods. The proposed underwater imaging solution holds significant potential for practical applications in ocean engineering, e.g., ocean vision, underwater tracking, target identification, and location.
+
+
